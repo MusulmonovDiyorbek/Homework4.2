@@ -1,2 +1,3 @@
 Feature 3 - commit 1
 Feature 3 - commit 2
+Feature 3 - commit 3
